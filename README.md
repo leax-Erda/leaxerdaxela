@@ -42,7 +42,7 @@ Atualmente, estou se especializando **Java**, **PHP**, **SQL** e **Desenvolvimen
 ## 📫 Como entrar em contato
 📧 Email: leaxerdaxela@gmail.com  
 💼 LinkedIn: [Leax Erdaxela](https://www.linkedin.com/in/Leax-Erdaxela )  
-🌍 Portfólio Web: [Sobre.com](https://index.html)
+🌍 Portfólio Web: [Sobre.com](https://leaxerdaxela.github.io/index.html)
 
 
 
